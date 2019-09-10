@@ -1,0 +1,18 @@
+.aboutUsBlock {
+    padding: 90px 220px 100px;
+}
+
+.description {
+    text-align: center;
+    color: #999999;
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-bottom: 100px;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+}
+
+

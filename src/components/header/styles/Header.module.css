@@ -1,0 +1,7 @@
+.header {
+    max-width: 1535px;
+    background-image: url("./../../../images/header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 220px;
+}

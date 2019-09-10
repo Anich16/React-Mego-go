@@ -1,0 +1,46 @@
+.content {
+    margin: 150px auto 130px;
+    padding: 0 100px;
+    color: #fff;
+    text-align: center;
+}
+
+.description {
+    font-family: "Kaushan Script";
+    font-size: 52px;
+    line-height: 52px;
+}
+
+.title {
+    font-family: "Montserrat Bold";
+    text-transform: uppercase;
+    font-size: 120px;
+    line-height: 120px;
+    padding-top: 50px;
+}
+
+.title::after {
+    content: "";
+    width: 60px;
+    height: 3px;
+    background-color: #fff;
+    margin: 50px auto 30px;
+    display: block;
+}
+
+.button {
+    color: #fff;
+    text-transform: uppercase;
+    padding: 15px 30px;
+    border: 3px solid #fff;
+    text-decoration: none;
+    font-family: "Montserrat Bold";
+    font-size: 14px;
+    display: inline-block;
+}
+
+.button:hover {
+    color: #626060;
+    background-color: #fff;
+    border: 3px solid #626060;
+}

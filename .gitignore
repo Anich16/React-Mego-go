@@ -11,6 +11,9 @@
 # production
 /build
 
+# layout
+/MoGo_FREE_Template_by_Laaqiq.psd
+
 # misc
 .DS_Store
 .env.local

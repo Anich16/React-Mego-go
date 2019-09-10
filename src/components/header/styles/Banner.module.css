@@ -1,0 +1,47 @@
+.banner {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    padding-top: 15px;
+}
+
+.logo {
+    color: #fff;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: "Montserrat Bold";
+}
+
+.menu {
+    text-align: right;
+    align-self: center;
+    width: 50%;
+    margin-left: 230px;
+}
+
+.menuList {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menuItem {
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    border-bottom: 3px solid transparent;
+    text-transform: uppercase;
+    font-family: "Montserrat";
+    display: block;
+}
+
+.menuItem:hover {
+    color: #fce38a;
+    border-bottom: 3px solid #fce38a;
+}
+
+.buttonBlock {
+    display: flex;
+    justify-content: space-between;
+    width: 7%;
+}
